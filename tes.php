@@ -1,0 +1,1 @@
+$ php -f db-connect-test.php
